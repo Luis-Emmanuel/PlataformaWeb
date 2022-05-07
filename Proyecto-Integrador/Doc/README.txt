@@ -10,6 +10,6 @@ Fuentes de donde se obtuvieron las imagenes y kaomijis usados para la plataforma
 [8]	Pymu imagen temporal. https://www.pinterest.com.mx/pin/401524123027163214/
 [9]	Javi imagen temporal. https://www.zerochan.net/113868
 
-Las mascotas e iconos de la pagina fueron realizados por:
+Las mascotas e iconos originales de la pagina fueron realizados por:
 
 	- Guadalupe Alessandra Ramírez Fernández.
