@@ -6,6 +6,9 @@ Fuentes de donde se obtuvieron las imagenes y kaomijis usados para la plataforma
 [4]	SmileX. (2012). Kaomoji: Japanese Emoticons. http://kaomoji.ru/en/.
 [5]	Freepik. (s. f.). Freepik | Graphic Resources for everyone. https://www.freepik.com/.
 [6]	Hermosas imagenes y fotos gratuitas. (s. f.). Unsplash. https://unsplash.com/es.
+[7]	Ceci imagen temporal. https://twitter.com/ichthy0stega/status/930326882196660224
+[8]	Pymu imagen temporal. https://www.pinterest.com.mx/pin/401524123027163214/
+[9]	Javi imagen temporal. https://www.zerochan.net/113868
 
 Las mascotas e iconos de la pagina fueron realizados por:
 
