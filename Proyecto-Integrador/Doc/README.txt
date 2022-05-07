@@ -12,4 +12,5 @@ Fuentes de donde se obtuvieron las imagenes y kaomijis usados para la plataforma
 
 Las mascotas e iconos originales de la pagina fueron realizados por:
 
-	- Guadalupe Alessandra Ramírez Fernández.
+	- Guadalupe Alessandra Ramírez Fernández. https://twitter.com/Alina_rf123
+ 
